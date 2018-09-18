@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoFunPattern</string>
+    <string name="adjustValue">TextView</string>
+</resources>
